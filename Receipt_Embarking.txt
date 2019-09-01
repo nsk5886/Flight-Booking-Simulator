@@ -1,0 +1,15 @@
+-----------------------------------------
+|               Receipt                 |
+| Delta                                 |
+| Customer Name: Neil Kolhatkar         |
+| Flight Number: PTC544                 |
+| Departing From: ROC                   |
+| Arriving At: JFK                      |
+| Seat Class: First                     |
+|                                       |
+|                                       |
+| SUBTOTAL: $1300                        |
+| TAX: $50.185                          |
+| TOTAL: $1350.18                        |
+|           Have a nice day! :)         |
+-----------------------------------------

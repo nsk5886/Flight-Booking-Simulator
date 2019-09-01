@@ -1,0 +1,12 @@
+--------------------------------------------------
+|                 BOARDING PASS                   |
+| Airline: Delta                                  |
+| Passenger Name: Neil Kolhatkar                  |
+| Flight Number: PTC544                           |
+| Departing From: ROC                             |
+| Depature Time: 16:00                           |
+| Arriving At: JFK                                |
+| Arrival Time: 17:01                              |
+| Gate: P18                                       |
+| Seat: 32D                                       |
+--------------------------------------------------

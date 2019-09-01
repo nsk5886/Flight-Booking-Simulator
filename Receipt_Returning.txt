@@ -1,0 +1,15 @@
+-----------------------------------------
+|               Receipt                 |
+| United                                |
+| Customer Name: Neil Kolhatkar         |
+| Flight Number: PFC839                 |
+| Departing From: JFK                   |
+| Arriving At: ROC                      |
+| Seat Class: Economy                   |
+|                                       |
+|                                       |
+| SUBTOTAL: $150                       |
+| TAX: $294.56                          |
+| TOTAL: $444.56                        |
+|           Have a nice day! :)         |
+-----------------------------------------

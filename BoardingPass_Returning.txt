@@ -1,0 +1,12 @@
+--------------------------------------------------
+|                 BOARDING PASS                   |
+| Airline: United                                 |
+| Passenger Name: Neil Kolhatkar                  |
+| Flight Number: PFC839                           |
+| Departing From: JFK                             |
+| Depature Time: 14:00                           |
+| Arriving At: ROC                                |
+| Arrival Time: 15:01                              |
+| Gate: P92                                       |
+| Seat: 3D                                       |
+--------------------------------------------------
